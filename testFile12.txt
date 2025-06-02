@@ -1,2 +1,3 @@
 this is a text file for feature A branch
+added this line in featureA branch
 
